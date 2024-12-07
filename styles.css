@@ -1,12 +1,5 @@
-#title {
-
-}
-
-#description {
-  
-}
-
-#number {
-    min: 10;
+h1 {
+    font-family: Tahoma;
+    font-size: 12px;
 }
 
